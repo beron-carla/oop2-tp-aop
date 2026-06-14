@@ -2,7 +2,7 @@ package ejercicio3;
 
 import ejercicio3.model.Concurso;
 import ejercicio3.model.Inscriptos;
-import ejercicio3.model.Log;
+import ejercicio3.aspect.Log;
 import ejercicio3.model.RegistroDeConcursos;
 
 import javax.swing.*;

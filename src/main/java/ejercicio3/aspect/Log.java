@@ -1,4 +1,4 @@
-package ejercicio3.model;
+package ejercicio3.aspect;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
