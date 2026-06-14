@@ -1,0 +1,4 @@
+todosLosConcursos, "sin parametros", "2026/06/14 14:51:20"
+saveInscription, "sin parametros", "2026/06/14 14:51:56"
+todosLosConcursos, "sin parametros", "2026/06/14 14:53:03"
+saveInscription, "sin parametros", "2026/06/14 14:53:41"
